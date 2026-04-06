@@ -58,8 +58,8 @@ app.use(helmet());
 // ✅ CORS (ONLY your frontend allowed)
 app.use(cors({
   origin: [
-    "https://gahraaiyan.com/",
-    "https://www.gahraaiyan.com/"
+    "https://gahraaiyan.com",
+    "https://www.gahraaiyan.com"
   ],
   credentials: true
 }));
