@@ -23,7 +23,7 @@ const sites = [
   {
     name: "Gahraaiyan Managements",
     description: "Efficient logistics & transport coordination services.",
-    url: "https://gahraaiyan.com",
+    url: "https://app.gahraaiyan.com/",
     page: "/gahraaiyan-transport",
     tag: "Logistics",
     tagClass: "bg-[#1A2A1A] text-[#6EE7B7]",
